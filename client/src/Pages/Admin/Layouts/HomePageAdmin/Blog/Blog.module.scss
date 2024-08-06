@@ -1,0 +1,23 @@
+.btn-addBlog {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px;
+}
+
+.table th,
+.table td {
+    vertical-align: middle;
+}
+
+/* Ensure the buttons are displayed horizontally with spacing */
+.action-buttons {
+    display: flex;
+    gap: 10px; /* Space between the buttons */
+}
+
+.btn {
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+}
