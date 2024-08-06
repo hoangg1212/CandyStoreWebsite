@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CandyStoreWebsite/static/css/main.5874427d.css",
+    "main.js": "/CandyStoreWebsite/static/js/main.1a19b295.js",
+    "static/js/206.276884ca.chunk.js": "/CandyStoreWebsite/static/js/206.276884ca.chunk.js",
+    "static/media/hinh1.jpg": "/CandyStoreWebsite/static/media/hinh1.5d8d485fe95943dcb4ce.jpg",
+    "static/media/banner3.jpg": "/CandyStoreWebsite/static/media/banner3.6f23c0547072bb61b727.jpg",
+    "static/media/banner2.jpg": "/CandyStoreWebsite/static/media/banner2.334d787d872483cfd37b.jpg",
+    "static/media/03.jpg": "/CandyStoreWebsite/static/media/03.2ba660a838c0814a12d1.jpg",
+    "static/media/banner1.jpg": "/CandyStoreWebsite/static/media/banner1.2c20f166d7c1e69a4c42.jpg",
+    "static/media/hinh3.jpg": "/CandyStoreWebsite/static/media/hinh3.b229d9e286f8ceefee73.jpg",
+    "static/media/04.jpg": "/CandyStoreWebsite/static/media/04.3a2393fbef8dbbeebd3a.jpg",
+    "static/media/hinh2.jpg": "/CandyStoreWebsite/static/media/hinh2.5c06a5674de5db22a9cb.jpg",
+    "static/media/logo.png": "/CandyStoreWebsite/static/media/logo.b6ff2bae097cc18d6d31.png",
+    "static/media/01.jpg": "/CandyStoreWebsite/static/media/01.3f4f4271bfd91f3a8b80.jpg",
+    "static/media/imgCheck.png": "/CandyStoreWebsite/static/media/imgCheck.a25474f6383b9c5aae68.png",
+    "static/media/02.jpg": "/CandyStoreWebsite/static/media/02.a6891bd0431b4522090b.jpg",
+    "static/media/MoMo_Logo.png": "/CandyStoreWebsite/static/media/MoMo_Logo.105c1788d7f9c1acb0a1.png",
+    "index.html": "/CandyStoreWebsite/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.5874427d.css",
+    "static/js/main.1a19b295.js"
+  ]
+}
